@@ -1,0 +1,32 @@
+<html>
+
+
+<body>
+<link rel="stylesheet" href="style.css">
+
+<div class="login-form">
+
+<h1> Formulario <h1>
+
+<form action="https://formsubmit.co/cnl.alejandro.anchondo@colegionuevalaguna.edu.mx" method="POST">
+
+<p>Nombre</p>
+<input type="text" name="nombre" required=""/>
+
+<p>Apellidos</p>
+<input="text" name="apellidos" required=""/>
+
+<p>Correo electrónico</p>
+<input="text" name="correo" required=""/>
+
+<input type=submit" value="Enviar">
+
+</form>
+
+<a> forgot password</a>
+</div>
+
+</body>
+
+
+</html>
